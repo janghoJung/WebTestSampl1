@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-    <a href="https://github.com/janghoJung/WebTestSampl1/blob/master/HTML_STUDY.html">TEST</a>
+<a href="https://github.com/janghoJung/WebTestSampl1/blob/master/HTML_STUDY.html">TEST</a>
 
 
 You can use the [editor on GitHub](https://github.com/janghoJung/WebTestSampl1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
